@@ -517,7 +517,7 @@ DTSTART;TZID=Asia/Hong_Kong:20190226T234200
 DTEND;TZID=Asia/Hong_Kong:20190226T235900
 RRULE:FREQ=YEARLY
 STATUS:CONFIRMED
-SUMMARY:晚上是煩惱的結束，早晨是快樂的開始，晴天照出你燦爛的心情，雨天衝去你所有的憂愁，無論是早晚，不管是晴雨，我都願陪在你身邊，願寶貝快樂每一天！
+SUMMARY:晚上是煩惱的結束，早晨是快樂的開始，晴天照出你燦爛的心情，雨天沖去你所有的憂愁，無論是早晚，不管是晴雨，我都願陪在你身邊，願寶貝快樂每一天！
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20180413T133738Z
